@@ -76138,3 +76138,48 @@ Plot: Based on H.G. Bissinger's book, which profiled the economically depressed 
 Cast: Billy Bob Thornton, Lucas Black, Garrett Hedlund, Derek Luke
 ------------------------------------------------------------
 
+Title: Friday Night Lights
+
+Year: 2004
+
+imdb Rating: 7.3
+
+Country: Germany, USA
+
+Language: English
+
+Plot: Based on H.G. Bissinger's book, which profiled the economically depressed town of Odessa, Texas and their heroic high school football team, The Permian High Panthers.
+
+Cast: Billy Bob Thornton, Lucas Black, Garrett Hedlund, Derek Luke
+------------------------------------------------------------
+
+Title: Legally Blonde
+
+Year: 2001
+
+imdb Rating: 6.3
+
+Country: USA
+
+Language: English
+
+Plot: Elle Woods, a fashionable sorority queen is dumped by her boyfriend. She decides to follow him to law school, while she is there she figures out that there is more to her than just looks.
+
+Cast: Reese Witherspoon, Luke Wilson, Selma Blair, Matthew Davis
+------------------------------------------------------------
+
+Title: Legally Blonde
+
+Year: 2001
+
+imdb Rating: 6.3
+
+Country: USA
+
+Language: English
+
+Plot: Elle Woods, a fashionable sorority queen is dumped by her boyfriend. She decides to follow him to law school, while she is there she figures out that there is more to her than just looks.
+
+Cast: Reese Witherspoon, Luke Wilson, Selma Blair, Matthew Davis
+------------------------------------------------------------
+

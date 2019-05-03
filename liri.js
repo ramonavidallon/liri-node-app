@@ -7,12 +7,15 @@ var Spotify = require('node-spotify-api');
 var keys = require("./keys.js");
 var fs = require('fs');
 var spotify = new Spotify(keys.spotify);
+var reference = [];
 var input = process.argv[2];
-var searchType = process.argv[3];
+var searchType = process.argv.splice(3).join();
 
 
 
 //TODO: grab user input, grab parameters from user input, make API calls 
+
+
 
 //IF ELSE STATEMENTS FOR USER INPUT//
 
@@ -39,11 +42,15 @@ else {
 
 //OMDB FUNCTION//
 function movieThis(movie) {
-  
+
+  var movieSearch = movie
   var movieQuery = movie || "Mr. Nobody"
   
   axios.get("http://www.omdbapi.com/?t=" + movieQuery + "&y=&plot=short&tomatoes=true&apikey=trilogy").then(function(response) {
     
+    for (var i = 3; i < movieSearch.length; i++) {
+      reference.push(movieSearch[i])
+    }
     var divider = "\n------------------------------------------------------------\n\n";
     var jsonData = response.data;
 

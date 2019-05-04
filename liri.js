@@ -24,14 +24,14 @@ var searchType = process.argv.splice(3).join();
 if (input === 'movie-this') {
   movieThis(searchType);
 } 
-//SPOTIFY//
-else if (input === 'spotify-this-song') {
-  console.log("you chose a song");
-} 
 //BANDS IN  TOWN//
 else if (input === 'concert-this') {
   concertThis(searchType);
 }
+//SPOTIFY//
+else if (input === 'spotify-this-song') {
+  spotifyTrack(searchType);
+} 
 else if (input === 'do-what-it-says') {
   console.log("do what it says");
 }
@@ -70,8 +70,6 @@ function movieThis(movie) {
       if(err) throw err;
       console.log(divider + movieData);
     });
-
-
   })
 
 };
@@ -85,17 +83,23 @@ function concertThis(concert) {
 
   axios.get("https://rest.bandsintown.com/artists/" + concertQuery + "/events?app_id=codingbootcamp").then(function(response) {
     var jsonData = response.data;
-    console.log(jsonData);
+    // console.log(jsonData);
     for (var i = 0; i < jsonData.length; i++) {
       var divider = "\n------------------------------------------------------------\n\n";
       var concertFind = [
         "\nVenue Name: " + jsonData[i].venue.name,
         "\nLocation: " + jsonData[i].venue.city,
-        "\nDate of Concert: " + moment(jsonData[0], "YYYY-DD-MM").format("DD/MM/YYYY"),
+        "\nDate of Concert: " + moment(jsonData[i].datetime).format("L"),
       ].join("\n\n")
+      // console.log("THIS IS JSONDATA", jsonData[i].datetime);
+      
+      fs.appendFile("log.txt", concertFind + divider, function(err) {
+        if(err) throw err;
+        console.log(divider + concertFind);
+      });
 
-      console.log(divider + concertFind);
-      console.log(concertThis);
+        console.log(divider + concertFind);
+        // console.log(concertThis);
     };
       
   });
@@ -103,43 +107,38 @@ function concertThis(concert) {
 /////END BANDS IN TOWN FUNCTION/////
 
 
-      
+
+///SPOTIFY FUNCTION/////
+function spotifyTrack(track) {
+  
+console.log(track);
+
+  spotify.search({ type: 'track', query: track }, function(err, response) {
+    if (err) {
+      return console.log('Error occurred: ' + err);
+    }
     
+    var jsonData = response.tracks;
+    console.log(jsonData);
+    
+    for (var i = 0; i < 5; i++) {
+      var divider = "\n------------------------------------------------------------\n\n";
+      var trackInfo = [
+        "\nArtist: " + jsonData.items[i].artists[0].name,
+        "\nTrack Name: " + jsonData.items[i].name,
+        "\nAlbum Name: " + jsonData.items[i].album.name,
+        "\nPreview Track: " + jsonData.items[i].preview_url,
+      ]
 
-
-
-
-
-
-
-
-
-
-/////SPOTIFY FUNCTION/////
-
-// function spotifyTrack(value) {
-//   if(!value) {
-//     value = "The Sign"
-//   }
-
-//   spotify
-//   .search({ type: 'track', query: value })
-//   .then(function(response){
-
-//     for (var i = 0; i < 5; i++) {
-//       var spotifyInfo =
-//       "---------------------------" +
-//       "\nArtist: " + response.tracks.items[i].artists[0].name +
-//       "\nTrack Name: " + response.tracks.items[i].name +
-//       "\nAlbum Name: " + response.tracks.items[i].album.name +
-//       "\nPreview Track: " + response.tracks.items[i].preview_url;
-
-//       console.log(spotifyInfo);
+      console.log(divider + trackInfo);
       
-//     }
-//   })
-//   .catch(function(err){
-//     console.log(err);
-//   });
-// }
+      
+      fs.appendFile("log.txt", trackInfo + divider, function(err) {
+        if(err) throw err;
+        console.log(divider + trackInfo);
+      });   
+    }
+  })
 
+};
+/////END SPOTIFY FUNCTION/////

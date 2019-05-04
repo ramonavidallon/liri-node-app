@@ -76183,3 +76183,373 @@ Plot: Elle Woods, a fashionable sorority queen is dumped by her boyfriend. She d
 Cast: Reese Witherspoon, Luke Wilson, Selma Blair, Matthew Davis
 ------------------------------------------------------------
 
+Title: Inception
+
+Year: 2010
+
+imdb Rating: 8.8
+
+Country: USA, UK
+
+Language: English, Japanese, French
+
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+
+Cast: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+------------------------------------------------------------
+
+Title: Inception
+
+Year: 2010
+
+imdb Rating: 8.8
+
+Country: USA, UK
+
+Language: English, Japanese, French
+
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+
+Cast: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+------------------------------------------------------------
+
+Title: Friday Night Lights
+
+Year: 2004
+
+imdb Rating: 7.3
+
+Country: Germany, USA
+
+Language: English
+
+Plot: Based on H.G. Bissinger's book, which profiled the economically depressed town of Odessa, Texas and their heroic high school football team, The Permian High Panthers.
+
+Cast: Billy Bob Thornton, Lucas Black, Garrett Hedlund, Derek Luke
+------------------------------------------------------------
+
+
+Venue Name: The Governors Ball
+
+
+Location: New York
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: Bonnaroo Music and Arts Festival
+
+
+Location: Manchester
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: City of Rock
+
+
+Location: Rio De Janeiro
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: 05/04/2019
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: City of Rock
+
+
+Location: Rio De Janeiro
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: 05/04/2019
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: City of Rock
+
+
+Location: Rio De Janeiro
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: 05/04/2019
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: City of Rock
+
+
+Location: Rio De Janeiro
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: 05/04/2019
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: City of Rock
+
+
+Location: Rio De Janeiro
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: 05/04/2019
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: City of Rock
+
+
+Location: Rio De Janeiro
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: 05/04/2019
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: City of Rock
+
+
+Location: Rio De Janeiro
+
+
+Date of Concert: Invalid date
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: 04/05/2019
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: 18/05/2019
+------------------------------------------------------------
+
+
+Venue Name: City of Rock
+
+
+Location: Rio De Janeiro
+
+
+Date of Concert: 27/09/2019
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: 05/04/2019
+------------------------------------------------------------
+
+
+Venue Name: XS Nightclub
+
+
+Location: Las Vegas
+
+
+Date of Concert: 05/18/2019
+------------------------------------------------------------
+
+
+Venue Name: City of Rock
+
+
+Location: Rio De Janeiro
+
+
+Date of Concert: 09/27/2019
+------------------------------------------------------------
+
+
+Artist: Rex Orange County,
+Track Name: Loving Is Easy,
+Album Name: Loving Is Easy,
+Preview Track: https://p.scdn.co/mp3-preview/bce0365b96538116e07cb65fe3b3dbec560faae6?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: Jason Aldean,
+Track Name: You Make It Easy,
+Album Name: You Make It Easy,
+Preview Track: https://p.scdn.co/mp3-preview/d67c5f6071e4ee833392128032272a53e7651f4a?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: Commodores,
+Track Name: Easy,
+Album Name: Commodores,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Eagles,
+Track Name: Take It Easy - 2013 Remaster,
+Album Name: Eagles (2013 Remaster),
+Preview Track: https://p.scdn.co/mp3-preview/1dde876336ceab70ad0bbf832a3feff49783c3ea?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: Jason Aldean,
+Track Name: You Make It Easy,
+Album Name: Rearview Town,
+Preview Track: https://p.scdn.co/mp3-preview/d67c5f6071e4ee833392128032272a53e7651f4a?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+

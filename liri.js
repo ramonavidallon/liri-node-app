@@ -170,9 +170,3 @@ function doWhatItSays() {
     })
   }
 /////END DO WHAT IT SAYS FUNCTION/////
-
-      
-      
-  
-
-    

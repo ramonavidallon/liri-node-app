@@ -76728,3 +76728,163 @@ Album Name: If you were a movie, this would be your soundtrack,
 Preview Track: https://p.scdn.co/mp3-preview/fdc93b4fea52f7107a81e2755dffb5bbc88da7ab?cid=5840afeeb787401b8c00d64aca06034d
 ------------------------------------------------------------
 
+
+Venue Name: Zepp@BIGBOX
+
+
+Location: Singapore
+
+
+Date of Concert: 05/09/2019
+------------------------------------------------------------
+
+
+Venue Name: EDC
+
+
+Location: Chiba-shi
+
+
+Date of Concert: 05/11/2019
+------------------------------------------------------------
+
+
+Venue Name: We Love Green Festival
+
+
+Location: Paris
+
+
+Date of Concert: 06/02/2019
+------------------------------------------------------------
+
+
+Venue Name: Primavera Sound Barcelona
+
+
+Location: Barcelona
+
+
+Date of Concert: 05/30/2019
+------------------------------------------------------------
+
+
+Venue Name: Brannbollsyran Festival
+
+
+Location: Umeå
+
+
+Date of Concert: 06/01/2019
+------------------------------------------------------------
+
+
+Venue Name: Metro Metro Festival
+
+
+Location: Montreal
+
+
+Date of Concert: 05/19/2019
+------------------------------------------------------------
+
+Title: Endgame
+
+Year: 2011
+
+imdb Rating: 7.7
+
+Country: Canada
+
+Language: English
+
+Plot: Endgame is an original drama series centering on brilliant chess master, Arkady Balagan. Traumatized by the murder of his fiancée, Balagan has become a prisoner in his luxury Vancouver ...
+
+Cast: Shawn Doyle, Patrick Gallagher, Katharine Isabelle, Carmen Aguirre
+------------------------------------------------------------
+
+
+Artist: Ella Mai,
+Track Name: Shot Clock,
+Album Name: Ella Mai,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Vedo,
+Track Name: Shot Clock (V-Mix),
+Album Name: Shot Clock (V-Mix),
+Preview Track: https://p.scdn.co/mp3-preview/887af0eab4c194421411dda8753633a976c4a0f4?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: Ella Mai,
+Track Name: Shot Clock,
+Album Name: Ella Mai,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Elias,
+Track Name: Shot Clock,
+Album Name: Shot Clock,
+Preview Track: https://p.scdn.co/mp3-preview/4a6aebc30b225bf238dec656d5cf8e8474727612?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: Dame D.O.L.L.A,
+Track Name: Shot Clock,
+Album Name: Shot Clock,
+Preview Track: https://p.scdn.co/mp3-preview/7b105487fd88a1a33414593c60fcdb1bc866d779?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: Cathryn Hy,
+Track Name: Shotclock,
+Album Name: Popping Up,
+Preview Track: https://p.scdn.co/mp3-preview/044b9c510572d63e552437d27588655c68027328?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: The Real Kking,
+Track Name: Shotclock Remix,
+Album Name: Shotclock Remix,
+Preview Track: https://p.scdn.co/mp3-preview/168273c0a3e5af1d765262b4099c298b2416b5ec?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: Gospel Lee,
+Track Name: Shotclock Hustle,
+Album Name: Who I Am,
+Preview Track: https://p.scdn.co/mp3-preview/84ef6c3c8673fbe86ca46dce181a1263de46c858?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: WARA,
+Track Name: Shotclock,
+Album Name: If Guns Could Speak,
+Preview Track: https://p.scdn.co/mp3-preview/c1d9057aceb677f12f19b149f0d769d6fc5e9fd1?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: FoodStampz,
+Track Name: ShotClock,
+Album Name: More Stripez,
+Preview Track: https://p.scdn.co/mp3-preview/388cf2d097bd6e77b999d6f21b62391b553a9f5d?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+Title: Us
+
+Year: 2019
+
+imdb Rating: 7.4
+
+Country: USA, Japan
+
+Language: English
+
+Plot: A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.
+
+Cast: Lupita Nyong'o, Winston Duke, Elisabeth Moss, Tim Heidecker
+------------------------------------------------------------
+

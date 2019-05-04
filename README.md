@@ -16,7 +16,7 @@
 
    <li> The application will include information retracted from API's to fufill the user's request in the commands line. </li>
   <li> The API calls will parse through JSON objects, and exporting the information in a self created format. </li>
-  <ul>
+  </ul>
 
 <h2> Demonstration </h2>
 

@@ -76553,3 +76553,38 @@ Album Name: Rearview Town,
 Preview Track: https://p.scdn.co/mp3-preview/d67c5f6071e4ee833392128032272a53e7651f4a?cid=5840afeeb787401b8c00d64aca06034d
 ------------------------------------------------------------
 
+
+Artist: boy pablo,
+Track Name: wtf,
+Album Name: Soy Pablo,
+Preview Track: https://p.scdn.co/mp3-preview/409672069f726260ece71f601dc2209ef5122d90?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: Megan Thee Stallion,
+Track Name: WTF I Want,
+Album Name: Tina Snow,
+Preview Track: https://p.scdn.co/mp3-preview/9cf98b10ea0f349c939dde9a0e356e0e124beed5?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: Missy Elliott,
+Track Name: WTF (Where They From) [feat. Pharrell Williams],
+Album Name: WTF (Where They From) [feat. Pharrell Williams],
+Preview Track: https://p.scdn.co/mp3-preview/9fc9f52fc4e85a8976c7dfa121ea8b1e614d90bc?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+
+
+Artist: Ski Mask The Slump God,
+Track Name: WTF!?,
+Album Name: You Will Regret (Reloaded),
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: HUGEL,
+Track Name: WTF (feat. Amber Van Day),
+Album Name: WTF (feat. Amber Van Day),
+Preview Track: https://p.scdn.co/mp3-preview/f9f2f25e8480f402c8e041ff16c96e35ed976c60?cid=5840afeeb787401b8c00d64aca06034d
+------------------------------------------------------------
+

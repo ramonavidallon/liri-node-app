@@ -7,14 +7,11 @@ var Spotify = require('node-spotify-api');
 var keys = require("./keys.js");
 var fs = require('fs');
 var spotify = new Spotify(keys.spotify);
-var reference = [];
 var input = process.argv[2];
 var searchType = process.argv.splice(3).join();
-
-
-
-
-//TODO: grab user input, grab parameters from user input, make API calls 
+var film = '';
+var song = '';
+var band = '';
 
 
 
@@ -33,10 +30,11 @@ else if (input === 'spotify-this-song') {
   spotifyTrack(searchType);
 } 
 else if (input === 'do-what-it-says') {
-  console.log("do what it says");
+  doWhatItSays(searchType);
 }
 else {
   console.log('please choose a valid command');
+
 }
 /////END IF ELSE IF STATMENTS//////
 
@@ -142,3 +140,48 @@ console.log(track);
 
 };
 /////END SPOTIFY FUNCTION/////
+
+
+/////DO WHAT IT SAYS FUNCTION/////
+function doWhatItSays() {
+    fs.readFile("random.txt", "utf8", function(err, response){
+      if (err) throw err
+      
+      var responseArr = response.split(',');
+      console.log('');
+      console.log('---MAIN--CONTENT---');
+      console.log('');
+
+      for (var i = 0; i < responseArr.length; i++) {
+        
+        if (responseArr[i] === 'movie-this') {
+         film = responseArr[i++];
+         console.log('Watch This Movie: ' + film);
+         movieThis(film);
+        
+        } else if (responseArr[i] === 'spotify-this-song') {
+          song = responseArr[i++];
+          console.log('Identifying: ' + song);
+          spotifyTrack(song);
+          
+        } else if  (responseArr[i] === 'concert-this') {
+          band = responseArr[i++];
+          console.log('Check Out This Musical Artist: ' + band);
+          concertThis(band);
+          
+        } else {
+          console.log("This is an unrecognizable command");
+          
+        }
+
+
+      }
+    })
+  }
+/////END DO WHAT IT SAYS FUNCTION/////
+
+      
+      
+  
+
+    

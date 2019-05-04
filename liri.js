@@ -9,9 +9,6 @@ var fs = require('fs');
 var spotify = new Spotify(keys.spotify);
 var input = process.argv[2];
 var searchType = process.argv.splice(3).join();
-var film = '';
-var song = '';
-var band = '';
 
 
 
@@ -155,22 +152,16 @@ function doWhatItSays() {
       for (var i = 0; i < responseArr.length; i++) {
         
         if (responseArr[i] === 'movie-this') {
-         film = responseArr[i++];
-         console.log('Watch This Movie: ' + film);
-         movieThis(film);
+         movieThis(searchType);
         
         } else if (responseArr[i] === 'spotify-this-song') {
-          song = responseArr[i++];
-          console.log('Identifying: ' + song);
-          spotifyTrack(song);
+          spotifyTrack(searchType);
           
         } else if  (responseArr[i] === 'concert-this') {
-          band = responseArr[i++];
-          console.log('Check Out This Musical Artist: ' + band);
-          concertThis(band);
+          concertThis(searchType);
           
         } else {
-          console.log("This is an unrecognizable command");
+          console.log("Command is not valid!");
           
         }
 

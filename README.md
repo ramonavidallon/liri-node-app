@@ -21,7 +21,6 @@
 <h2> Demonstration </h2>
 
 <a href="https://youtu.be/DpiEvyViK-A">
-                        <img src="file:///Users/monching/Desktop/liri%20node%20screenshot.png" alt="Liri-node-app" width="240" height="200">
-                      </a>
-
+                        <img <img width="1440" alt="liri node screenshot" src="https://user-images.githubusercontent.com/43662571/57199050-78a90680-6f2f-11e9-846b-90375fb6079c.png">
+</a>
 

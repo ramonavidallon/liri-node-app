@@ -20,6 +20,8 @@
 
 <h2> Demonstration </h2>
 
+<p> Click screenshot to view my breakdown of the application!</p>
+
 <a href="https://youtu.be/DpiEvyViK-A">
                         <img <img width="1440" alt="liri node screenshot" src="https://user-images.githubusercontent.com/43662571/57199050-78a90680-6f2f-11e9-846b-90375fb6079c.png">
 </a>
